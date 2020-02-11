@@ -1,0 +1,10 @@
+print("Enter number")
+num1 = int(input())
+num2 = int(input())
+print(max(num1,num2),"is Greatest number")
+
+Output:
+Enter number
+10
+20
+20 is Greatest number
