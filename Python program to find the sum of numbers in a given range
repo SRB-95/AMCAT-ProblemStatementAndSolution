@@ -1,0 +1,11 @@
+start = int(input())
+end = int(input())
+sum = 0
+for i in range(start, end + 1, 1):
+    sum = sum + i
+print("The sum given range is:",sum)
+
+Output:
+2
+5
+The sum given range is: 14
